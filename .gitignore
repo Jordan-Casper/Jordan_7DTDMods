@@ -361,3 +361,19 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/AssetBundles
+/Assets/GameAssemblies
+/Assets/RadioPlayersModAltersWork
+/Assets/Scenes
+/Assets/TextMesh Pro
+/.vsconfig
+/Assembly-CSharp.csproj
+/JordanMods.csproj
+/Jordan_7DTDMods.sln
+/JordyRadio.sln
+/RadioMod.csproj
+/UserSettings
+/Temp
+/RadioBuild
+/ProjectSettings
+/Library
