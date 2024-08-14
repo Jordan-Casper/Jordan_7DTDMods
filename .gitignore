@@ -377,3 +377,15 @@ FodyWeavers.xsd
 /RadioBuild
 /ProjectSettings
 /Library
+/AltersRadioAssembly.csproj
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/BlockRadio.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/AltersRadioAssembly.asmdef
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/Harmony/Harmony.LateInitAll.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/Harmony/Harmony.OnApplicationQuit.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/Harmony/Harmony.RadioMod.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/Harmony/Harmony.VideoPlayerPlay.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/RadioManager.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/RadioTools.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/XUiC_BlockRadioPlayer.cs
+/Assets/RadioPlayersModAltersWork/RadioPlayersAlterScripts/XUiC_RadioPlayer.cs
+/.gitignore
