@@ -13,7 +13,7 @@ namespace CustomRadioMod
 
     public class Radio_Playlist : MonoBehaviour
     {
-        public AudioSource audioSource;
+        protected AudioSource audioSource;
 
 
         public void Awake()
@@ -27,14 +27,9 @@ namespace CustomRadioMod
 
         }
 
-        public void Update()
-        {
 
 
 
-
-
-        }
 
     }
 
